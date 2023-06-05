@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Música",
+    "description": "Preguntas relacionadas con géneros musicales, artistas y canciones populares."
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con avances tecnológicos, gadgets y tendencias en el mundo digital."
+  },
+  {
+    "category": "Cocina",
+    "description": "Preguntas relacionadas con recetas, ingredientes y técnicas culinarias."
+  },
+  {
+    "category": "Moda",
+    "description": "Preguntas relacionadas con diseñadores, tendencias de moda y marcas reconocidas."
+  },
+  {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con países, capitales, ríos, montañas y otros aspectos geográficos."
+  },
+  {
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con libros, autores famosos y movimientos literarios."
+  }
+]
