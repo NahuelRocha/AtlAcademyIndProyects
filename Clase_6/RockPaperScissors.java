@@ -11,7 +11,7 @@ public class RockPaperScissors {
         String[] options = {"rock", "paper", "scissors"};
         String choiceCom = options[new Random().nextInt(options.length)];
 
-        while (!choiceUser.equals("rock") && !choiceUser.equals("paper") && !choiceUser.equals("scissors")){
+        while (!choiceUser.equals("paper") && !choiceUser.equals("rock") && !choiceUser.equals("scissors")){
             System.out.println(choiceUser + " It is not a correct value, please try again.");
             choiceUser = sc.next().toLowerCase();
         }
