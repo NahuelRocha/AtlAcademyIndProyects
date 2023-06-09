@@ -8,7 +8,6 @@ public class RockPaperScissors {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please choose rock , paper or scissors.");
         String choiceUser = sc.next().toLowerCase();
-
         String[] options = {"rock", "paper", "scissors"};
         String choiceCom = options[new Random().nextInt(options.length)];
 
