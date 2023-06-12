@@ -22,6 +22,18 @@ public class ShowNumbers {
             sumOfNumbers += number;
         }
 
+        int minNumber = numbers[0];
+        int maxNumber = numbers[0];
+
+        for (int number : numbers) {
+            if(number < minNumber){
+                minNumber = number;
+            } else if(number> maxNumber) {
+                maxNumber = number;
+            }
+        }
+        System.out.printf("\nThe smallest number is %d and the largest number is %d.",minNumber,maxNumber);
+
         int firsNumber = numbers[0];
         int lastNumber = numbers[numbers.length - 1];
 
