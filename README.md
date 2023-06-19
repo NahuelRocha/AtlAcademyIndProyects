@@ -4,6 +4,12 @@ Repositorio de tareas individuales del bootcamp de Java.
 categories.json || 
 question.json
 - CLASE 5 -
-Operadores aritméticos y de lógica.
+Operadores aritméticos.
 - CLASE 6 -
 Operadores aritméticos y de lógica.
+- CLASE 7 -
+Arreglos.
+- CLASE 8 -
+Funciones y primeros pasos en Springboot.
+- CLASE 9 -
+Ejercicios practicos.
