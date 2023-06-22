@@ -13,3 +13,5 @@ Arreglos.
 Funciones y primeros pasos en Springboot.
 - CLASE 9 -
 Ejercicios practicos.
+- CASE 10 -
+Ejercicio Trivia de Programación Orientada a Objetos.
